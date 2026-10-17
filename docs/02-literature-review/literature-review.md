@@ -33,4 +33,4 @@ Some features, such as GitHub import, AI bios, and live preview, already exist i
 ## References
 1. devb.io: [https://fossunited.org/hack/fosshack25/p/9kn8ebhl0e](https://devb.io/)
 2. Folio: https://github.com/foliohq/folio
-3. PortGen: https://hunted.space/product/portgen
+3. PortGen:[ https://hunted.space/product/portgen](https://www.producthunt.com/products/portgen)
