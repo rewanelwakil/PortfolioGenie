@@ -14,6 +14,7 @@
 - Project proposal, plan, roles, risks, and KPIs
 - Literature review and requirements
 - System design (diagrams and wireframes)
-- Source code and README
+- Source code on GitHub and README
+- API and technical documentation
 - Test plan and user manual
 - Final presentation and infographic
