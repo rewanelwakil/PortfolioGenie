@@ -9,6 +9,7 @@
 | 5 | Elsaeed Mahmoud Elsaeed Elabd | |  |
 | 6 | Gehad Ahmed Ali Abo Alazem |  | |
 
-## Notes
+- ## Notes
 - Each member documents the completed tasks in the GitHub repository.
+- Each member explains their own work and responsibility during the final presentation.
 - Roles may be adjusted as the project progresses.
